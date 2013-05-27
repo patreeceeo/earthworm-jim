@@ -1,0 +1,15 @@
+
+.pixel {
+    display: inline-block;
+}
+
+.CRTScreen.zoom8 .pixel {
+    height: 20px;
+    width: 20px;
+}
+
+.VSpan24.zoom8 {
+    display: block;
+    height: 960px;
+    width: 960px;
+}
